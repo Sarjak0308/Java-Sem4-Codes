@@ -31,7 +31,7 @@
 	1\
 	22\
 	333\
-	4444\
+	4444
 
 15. Write a Java program to make such a pattern like a right angle triangle with the number increased by 1.
 	The pattern like :\
