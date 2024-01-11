@@ -46,6 +46,9 @@
 
 18. Create a class Person with attributes name and age. Derive a class Employee from Person with additional attributes employeeId and salary. Create objects of both classes and demonstrate how inheritance works in accessing the attributes of the base class.
 
-19. Implement a simple banking system using inheritance. Create a base class Account with attributes accountNumber and balance. Derive two classes SavingsAccount and CurrentAccount from Account. Add methods to deposit and withdraw money. Demonstrate the use of these classes with sample account transactions.
+19. Design a class hierarchy for a shape. Create a base class Shape with methods area() and perimeter(). Derive classes Circle, Rectangle, and Triangle from Shape. Implement the necessary methods in each derived class. Create objects of each class and calculate the area and perimeter for each.
+
+20. Develop a simple online shopping system. Create a base class Product with attributes productId, productName, and price. Derive classes Electronics, Clothing, and Books from Product. Add specific attributes for each product type. Create objects for each class and demonstrate polymorphism by displaying product details.
+
 
 
