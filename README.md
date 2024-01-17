@@ -50,5 +50,7 @@
 
 20. Develop a simple online shopping system. Create a base class Product with attributes productId, productName, and price. Derive classes Electronics, Clothing, and Books from Product. Add specific attributes for each product type. Create objects for each class and demonstrate polymorphism by displaying product details.
 
+21.Write a Java program to create a base class BankAccount with methods deposit() and withdraw(). Create two subclasses SavingsAccount and CheckingAccount. Override the withdraw() method in each subclass to impose different withdrawal limits and fees. 
+
 
 
