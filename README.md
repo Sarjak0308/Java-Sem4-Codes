@@ -52,5 +52,10 @@
 
 21.Write a Java program to create a base class BankAccount with methods deposit() and withdraw(). Create two subclasses SavingsAccount and CheckingAccount. Override the withdraw() method in each subclass to impose different withdrawal limits and fees. 
 
+22. Write a java program to find the factorial of a number entered by the user. 
+
+23. Write a java program to find sum of digits in a given number.
+
+
 
 
