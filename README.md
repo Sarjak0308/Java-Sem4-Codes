@@ -63,7 +63,7 @@
 	bookstore.users : 
 		Sample Class: Customer - Represents a customer with attributes like name, contact details, and purchase history.
 
-	(A Folder Named 'bookstore' which contains 3 folders - 'core', 'inventory' & 'users'. 'core' contains definition of 'Book' Class. 'inventory' contains definition of 'InventoryManager' Class. 'users' contains definition of 		'Customer' Class.)
+	(A Folder Named 'bookstore' which contains 3 folders - 'core', 'inventory' & 'users'. 'core' contains definition of 'Book' Class. 'inventory' contains definition of 'InventoryManager' Class. 'users' contains definition of 	'Customer' Class.)
 
 23. Write a java program to find the factorial of a number entered by the user. 
 
