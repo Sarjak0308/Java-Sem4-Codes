@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Exp2_Arithmatic {
+public class Exp02_Arithmatic {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter 1st Number:");

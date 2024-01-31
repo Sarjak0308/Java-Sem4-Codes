@@ -1,7 +1,7 @@
 //Write a Java Program to find the Greatest Number of the 3 entered Numbers.
 
 import  java.util.*;
-public class Exp3_Greatest {
+public class Exp03_Greatest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1st Number:");

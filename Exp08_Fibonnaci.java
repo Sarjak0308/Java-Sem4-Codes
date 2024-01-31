@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Exp8_Fibonnaci {
+public class Exp08_Fibonnaci {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Upto How many terms: ");

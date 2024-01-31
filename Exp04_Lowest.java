@@ -1,7 +1,7 @@
 //Write a Java Program to find the Lowest Number of the 3 entered Numbers.
 
 import  java.util.*;
-public class Exp4_Lowest {
+public class Exp04_Lowest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1st Number:");
