@@ -1,3 +1,9 @@
+/* 21. Write a Java program to create a base class BankAccount with methods deposit() and withdraw(). 
+Create two subclasses SavingsAccount and CheckingAccount. 
+Override the withdraw() method in each subclass to impose different withdrawal limits and fees.
+*/
+
+
 import java.util.Scanner;
 
 class BankAccount {
@@ -80,7 +86,7 @@ public class Exp21 {
                         "3. Exit.");
                 choice = sc.nextInt();
                 System.out.println("Enter Account Holder Name:");
-                name = sc.next();
+                name = sc.next()+" "+sc.next();
                 System.out.println("Enter Starting Account Balance:");
                 balance = sc.nextInt();
                 if (choice == 1)
