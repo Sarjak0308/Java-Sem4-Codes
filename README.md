@@ -77,7 +77,16 @@
 
 28. Write a java program using throws keyword to handle custom exception.
 
-29. Write a java program to showcases how multithreading allows multiple tasks to be executed simultaneously by printing a count from 1 to 5 with a 1-second delay between each count
+29. Write a java program to showcases how multithreading allows multiple tasks to be executed simultaneously by printing a count from 1 to 5 with a 1-second delay between each count.
+
+30. Write a java program to do autoboxing and unboxing using wrapper class.
+
+31. Write a java program that uses any 5 methods of "Math" class.
+
+32. Write a java program that uses any 5 methods of "String" class.
+
+33. Write a java program that uses any 5 methods of "StringBuffer" class.
+
 
 
 
