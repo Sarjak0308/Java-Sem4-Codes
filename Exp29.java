@@ -25,7 +25,7 @@ class CountingThread extends Thread {
     }
 }
 
-public class Program29_MultiThreading {
+public class Exp29 {
     public static void main(String[] args) {
         CountingThread thread1 = new CountingThread("Thread A", 1);
         CountingThread thread2 = new CountingThread("Thread B", 6);
